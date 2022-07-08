@@ -1,0 +1,8 @@
+C:\Users\Chaudhary Usman\Documents\PF Random code\Bomb\Bomb\x64\Debug\Bomb.vcxproj.AssemblyReference.cache
+C:\Users\Chaudhary Usman\Documents\PF Random code\Bomb\Bomb\x64\Debug\Bomb.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Chaudhary Usman\Documents\PF Random code\Bomb\Bomb\x64\Debug\Bomb.MyForm.resources
+C:\Users\Chaudhary Usman\Documents\PF Random code\Bomb\Bomb\x64\Debug\Bomb.vcxproj.GenerateResource.cache
+C:\Users\Chaudhary Usman\Desktop\Bomb\Bomb\x64\Debug\Bomb.vcxproj.AssemblyReference.cache
+C:\Users\Chaudhary Usman\Desktop\Bomb\Bomb\x64\Debug\Bomb.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Chaudhary Usman\Desktop\Bomb\Bomb\x64\Debug\Bomb.MyForm.resources
+C:\Users\Chaudhary Usman\Desktop\Bomb\Bomb\x64\Debug\Bomb.vcxproj.GenerateResource.cache
