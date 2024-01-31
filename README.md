@@ -2,6 +2,14 @@
 <h3 align="center">A passionate Computer Science Student</h3>
 <h3>What does the project do?</h3>
 <p>The project imitates a Contact Book information System similar to the contacts in phone. It takes input for the contact and stores it in a file. The contact can be edited, deleted and viewed as well. Windows CLR is used for the GUI.</p>
+<h3>For running the project</h3>
+<p>You must have the following things installed on your visual studio or visual studio code</p>
+<ol>
+  <li>Desktop Development with C++</li>
+  <li>.NET Desktop Development</li>
+  <li>C++/CLI Support for build tools</li>
+</ol>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/marwashahid](https://github.com/marwashahid)
 
